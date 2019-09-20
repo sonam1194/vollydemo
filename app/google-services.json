@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738153788419",
+    "firebase_url": "https://volly-demo.firebaseio.com",
+    "project_id": "volly-demo",
+    "storage_bucket": "volly-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738153788419:android:b7e3918d60c8ca458b0a36",
+        "android_client_info": {
+          "package_name": "com.example.vollydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738153788419-9n9esaf8e70c5ictmneuk4i78fvpv5ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vollydemo",
+            "certificate_hash": "7ed5d04d7066cbdf0f10e28ef2c8269af0ab0571"
+          }
+        },
+        {
+          "client_id": "738153788419-5ilv74tf217klc8lpfa80b8dl41jl3pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfOJYcDv5pVdEh1CX9kCm9KSolc0iEqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738153788419-5ilv74tf217klc8lpfa80b8dl41jl3pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
